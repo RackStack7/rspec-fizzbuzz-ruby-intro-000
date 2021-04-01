@@ -3,8 +3,9 @@ value = gets.strip
 def fizzbuzz(value)
   input = value.to_i
   if input / 3 == 0
-  puts  "Fizz"
+   "Fizz"
 elsif input / 5 == 0
-  puts "Buzz"
+   "Buzz"
 
+end
 end
