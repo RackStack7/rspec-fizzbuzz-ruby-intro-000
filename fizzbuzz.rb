@@ -1,6 +1,4 @@
 value = gets.strip
-
-def fizzbuzz(value)
   input = value.to_i
   if input / 3 == 0
    "Fizz"
