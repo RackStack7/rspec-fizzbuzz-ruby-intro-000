@@ -6,4 +6,3 @@ elsif input / 5 == 0
    "Buzz"
 
 end
-end
